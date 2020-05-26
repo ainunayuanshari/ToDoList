@@ -1,4 +1,4 @@
-package com.example.vicky.todolist
+package com.example.aaa.todolist
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
